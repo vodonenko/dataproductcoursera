@@ -21,10 +21,7 @@ shinyUI(pageWithSidebar(
         )
         
         
-#         plotOutput('graphic'),
-#         h4('Definite integral:'),
-#         textOutput('integral'),
-        
+      
         
     )
 ))
